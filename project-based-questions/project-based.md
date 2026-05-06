@@ -1,8 +1,18 @@
-# Interview Feedback & Preparation Checklist
+# Data Engineering Interview — Project-Based Question Checklist
+
+> A comprehensive checklist of project-related questions commonly asked in Data Engineering interviews.
+> These questions focus on real-world project experience — covering system design, pipeline architecture,
+> fault tolerance, optimization, team dynamics, and business impact.
+>
+> Use this as a self-assessment guide before interviews. For each question, prepare a concrete,
+> experience-backed answer from your past projects. Where possible, quantify your answers with
+> numbers, timelines, and measurable outcomes.
+>
+> **Maintained by:** Hemant
+> **Purpose:** Interview Preparation
+> **Domain:** Data Engineering (Databricks, PySpark, Airflow, Spark, Snowflake, Kafka, Delta Lake)
 
 ---
-
-## From Today's Interview
 
 1. **Data Volume Details**
    - What was the volume of data you handled? (GBs/TBs/PBs, number of records)
@@ -78,10 +88,6 @@
     - What was the measurable impact (latency reduction, cost savings, accuracy %)?
     - Who benefited from the project?
     - How did it enable better decision-making or operational efficiency?
-
----
-
-## Additional Gaps Identified
 
 15. **Data Modeling Knowledge**
     - What data model was used (star schema, snowflake schema)?
